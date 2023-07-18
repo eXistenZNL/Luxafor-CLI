@@ -1,0 +1,4 @@
+github.com/karalabe/hid v1.0.0 h1:+/CIMNXhSU/zIJgnIvBD2nKHxS/bnRHhhs9xBryLpPo=
+github.com/karalabe/hid v1.0.0/go.mod h1:Vr51f8rUOLYrfrWDFlV12GGQgM5AT8sVh+2fY4MPeu8=
+github.com/leosunmo/goluxafor v0.0.0-20190619043318-e93f9402ecc3 h1:jbnqoUNbMbe2Wh7U4B8PV6DTBVS4bdIVwTQoKrPr6c0=
+github.com/leosunmo/goluxafor v0.0.0-20190619043318-e93f9402ecc3/go.mod h1:sZcD+dV9NpN5rtDnPl7RzgnYQ2DBCw19Dbr3NBRddAI=
