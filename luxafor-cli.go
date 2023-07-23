@@ -3,7 +3,7 @@ package main
 import (
 	"errors"
 	"fmt"
-	"github.com/leosunmo/goluxafor"
+	goluxafor "github.com/eXistenZNL/leosunmo-goluxafor"
 	"os"
 	"strconv"
 )
